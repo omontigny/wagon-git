@@ -3,6 +3,9 @@ h1{
 }
 
 p{
-font-family: "Open Sans", sans-serif;
-max-weight: 650px
+  font-family: "Open Sans", sans-serif;
+  max-width: 650px;
+}
+.description {
+  padding: 32px;
 }
